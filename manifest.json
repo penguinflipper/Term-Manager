@@ -1,0 +1,9 @@
+{
+	"id": "term-manager",
+	"name": "Term Manager",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A tool to allow the user to write and manage definitions for terms.",
+	"author": "RKL",
+	"isDesktopOnly": true
+}

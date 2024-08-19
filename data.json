@@ -1,0 +1,10 @@
+{
+  "mySetting": "default",
+  "term_colour": "#7ecea0",
+  "term_bold": true,
+  "term_italics": false,
+  "defn_colour": "#dd53f9",
+  "defn_bold": false,
+  "defn_italics": false,
+  "text_colour": "#ff1ab6"
+}
