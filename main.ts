@@ -125,7 +125,7 @@ export default class TermManager extends Plugin {
 	}
 
 	async getAllTerms() {
-		this.makeNewFile();
+		await this.makeNewFile();
 		
 		if (this.defsNote) {
 			let defsContent = await this.app.vault.read(this.defsNote);
@@ -150,7 +150,7 @@ export default class TermManager extends Plugin {
 
 	async defineTerm(editor: Editor, formatting: dictionary) {
 		const selectedText = editor.getSelection();
-		this.makeNewFile();
+		await this.makeNewFile();
 
 		if (this.defsNote) {
 

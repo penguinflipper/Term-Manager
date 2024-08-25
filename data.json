@@ -1,10 +1,10 @@
 {
   "mySetting": "default",
-  "term_colour": "#7ecea0",
+  "term_colour": "#acd2bd",
   "term_bold": true,
   "term_italics": false,
-  "defn_colour": "#dd53f9",
+  "defn_colour": "#9d86a2",
   "defn_bold": false,
-  "defn_italics": false,
+  "defn_italics": true,
   "text_colour": "#ff1ab6"
 }
