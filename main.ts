@@ -1,4 +1,4 @@
-import { App, ColorComponent, Editor, HexString, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting, TFile, ValueComponent } from 'obsidian';
+import { App, ColorComponent, Editor, HexString, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting, TFile } from 'obsidian';
 
 interface TermManagerSettings {
 	mySetting: string;
